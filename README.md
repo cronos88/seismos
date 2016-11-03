@@ -1,4 +1,4 @@
-Seisms is a script show seisms or earthquakes around world. This get information from USGS to list last seims past 24 hours.
+Seisms is a script shows seisms or earthquakes around the world. This get information from USGS to list last seims past 24 hours.
 
 <h2>Prerequisites</h2>
 
